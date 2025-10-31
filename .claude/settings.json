@@ -1,0 +1,7 @@
+{
+  "model": "claude-sonnet-4-5",
+  "env": {
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-5",
+    "LANG": "ja_JP.UTF-8"
+  }
+}
